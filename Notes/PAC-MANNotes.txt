@@ -1,0 +1,12 @@
+﻿PAC-MAN w/classes
+
+Wat to do?
+:
+1. Create classes(Form, PacMan, GameSpace, Food, Enemy)
+2. Add keyboard(WASD) and movement logik
+3. Enemy movement logik
+4. Food logik
+5. Collisions
+6. Scoring with animation
+7. Level map design
+8. Finishing touches
